@@ -14,10 +14,10 @@
 
 ex) <br>
     `<html>`<br>
-        `<head>`<br>
-        `</head>`<br>
-        `<body>`<br>
-        `</body>`<br>
+    `````<head>`<br>
+    `````</head>`<br>
+    `````<body>`<br>
+    `````</body>`<br>
    `</html>`<br>
 
    4. 리스트 작성<br>
